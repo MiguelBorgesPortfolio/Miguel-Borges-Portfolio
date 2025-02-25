@@ -77,7 +77,7 @@ Recognition for volunteering at **Web Summit Lisbon 2023**, gaining experience i
 
 ## 📄 Resume / CV  
 You can download my **resume (CV)** here:  
-📥 **[Miguel Borges - CV](#)** (Replace `#` with a direct download link if available)  
+📥 **[Miguel Borges - CV](https://github.com/MiguelBorgesPortfolio/Miguel-Borges-Portfolio/blob/main/Curriculum_Vitae_Miguel_Borges.pdf)**  
 
 ---
 
