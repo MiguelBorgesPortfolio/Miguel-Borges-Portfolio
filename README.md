@@ -21,7 +21,7 @@ Feel free to explore my projects, check my credentials, and reach out if you're 
 
 ### 🔹 **Algorithms & Optimization**  
 - 🧮 **[Parallel Prime Number Search](https://github.com/MiguelBorgesPortfolio/Parallel-Prime-Number-Search)** – High-performance parallel computing for prime number discovery.  
-- 📍 **[TSP - Parallel AJ-E++](https://github.com/MiguelBorgesPortfolio/Travelling-Salesman-Problem-TSP---Parallel-AJ-E++-Algorithm)** – Evolutionary algorithm for solving the Travelling Salesman Problem.  
+- 📍 **[TSP - Parallel AJ-E++](https://github.com/MiguelBorgesPortfolio/Travelling-Salesman-Problem-TSP---Parallel-AJ-E-Algorithm)** – Evolutionary algorithm for solving the Travelling Salesman Problem.  
 - 🏙 **[TSP - Parallel AJ-PE](https://github.com/MiguelBorgesPortfolio/Travelling-Salesman-Problem-TSP---Parallel-AJ-PE-Algorithm)** – Pseudo-evolutionary parallelized approach for TSP.  
 
 ### 🔹 **Database Systems**  
